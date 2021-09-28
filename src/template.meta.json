@@ -1,0 +1,20 @@
+{
+    "Template:default" : {
+        "ThemeConfig" : {
+            "BaseFontSize": 16,
+            "Color": "white"
+        },
+        "Body":{
+            "Sections": [
+                {
+                    "SectionName": "Educations",
+                    "Data":[
+                        {
+                            "name": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
